@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Python: Boas Práticas & Exceções",
+  "description": "Calculadora completa em Python com funções modulares, tipagem estática, tratamento robusto de exceções, terminal interativo e suite de testes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
